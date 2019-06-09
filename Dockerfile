@@ -5,4 +5,4 @@ COPY package.json .
 RUN npm install
 COPY index.js .
 EXPOSE 8888
-CMD ["node", "index.js"]
+CMD ["npm", "start"]

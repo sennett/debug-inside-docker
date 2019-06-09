@@ -1,1 +1,1 @@
-docker run -d -p 8888:8888 node-debug-image
+docker run -d -p 8888:8888 -p 9229:9229 node-debug-image
