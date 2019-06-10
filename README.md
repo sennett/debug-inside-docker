@@ -9,4 +9,4 @@ Article detailing how to debug:  https://dev.to/alex_barashkov/how-to-debug-node
 
 Todo:
 
-- files available in `node_modules` available only in docker machine.  Mount on host after npm install so that we can step into them?
+- enable stepping into to `node_modules` code.  files available in `node_modules` available only in docker machine.  Mount on host after npm install so that we can step into them?
